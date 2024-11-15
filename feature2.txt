@@ -2,5 +2,3 @@ this is a new feature called feature 2
 very cool feature
 
 New edition
-
-this is a currupted file
