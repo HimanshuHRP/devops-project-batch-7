@@ -1,2 +1,6 @@
  this is a new feature.
+<<<<<<< HEAD
 this is myyyyy changesssss.
+=======
+ this is my feature
+>>>>>>> dev
